@@ -99,6 +99,12 @@ nav .container-fluid a {
   text-align: center;
   font-size: 0.8em;
 }
+#proyectos .card {
+  font-family: "Comfortaa", cursive;
+}
+#proyectos .card h3 {
+  font-weight: 700;
+}
 #proyectos .card a {
   padding-top: 5px;
   height: 100%;
